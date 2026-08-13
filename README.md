@@ -1,5 +1,5 @@
 # cosmobase-school-2026
-Material for the CosmoBase cosmology school in Puebla 2026: L-PICOLA simulations, installation guides, notebooks, and large-scale structure analysis
+Material para la escuela CosmoBase en Puebla 2026: simulaciones L-PICOLA, guías de instalación de paquetes y notebooks
 
 # Carpeta doc:
 -PDF Clase: formación estructura L-PICOLA
@@ -27,5 +27,7 @@ https://nbodykit.readthedocs.io/en/latest/getting-started/install.html
 
 2.- Los tutoriales son basados en los mostrados por Pylians para un suit de simulaciones llamadas QUIJOTE:
 https://quijote-simulations.readthedocs.io/en/latest/tutorials.html
+
+3.-No olvidar instalar paquetes en activar el ambiente virtual utilizado para correr los tutoriales
 
   
