@@ -9,7 +9,7 @@ Material para la escuela CosmoBase en Puebla 2026: simulaciones L-PICOLA, guías
 
 # Carpeta notebooks:
 - tut1_density_field.ipynb   (Tutorial para campo de densidades y partículas)
-- tut2_pk_hmf.ipynb          (Tutorial para P(j) y HMF:)
+- tut2_pk_hmf.ipynb          (Tutorial para P(k) y HMF:)
 - calculate_fof.py           (script para generar catalogo de halos mediante fof)
 - Otras carpetas
 
